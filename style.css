@@ -1,0 +1,60 @@
+.nav_bar{                                /*-----还需要把响应式布局的问题解决--------------*/
+	
+	display:block;
+	background-color: #ccc;
+	padding:10px;
+	margin:10px ;
+}
+
+#top_bar{
+	
+	text-align:center;
+	margin: auto 10px 10px 10px;
+}
+
+.tbtn{
+	text-align:inherit;
+	
+}
+#left_bar{
+	
+	text-align:left;
+	width:50px;
+	height:500px;
+	display:inline-block;
+	
+
+}
+
+.lbtn{
+	text-align:inherit;
+	margin:10px auto 10px auto;
+}
+.container{
+	  text-align:center; 
+	   margin:50px 0px 0px 50px; 
+	  display:inline-block; 
+	 position:fixed; 
+       width:1250px;
+	   border:2px;
+}
+.item{
+	text-align:inherit;
+	
+}
+
+#message-box {
+	text-align:center;
+	 float:right; 
+	display:inline-block;
+	
+
+}
+#messageContents{
+	border-style:dotted;
+	border-color: crimson;
+    border-width:2px;
+	padding: 5px ;
+	margin:10px;
+}
+
